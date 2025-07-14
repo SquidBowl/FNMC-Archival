@@ -1,9 +1,10 @@
 # FNMC-Archival
-An official repositiory hosted by FNMC staff to archive events.
+The FNMC staff and volunteers maintain this repository to serve as the official archive for past and future events hosted by FNMC.
 
-This repository hosts archives of past and future events hosted by FNMC. Past events were ineffectively archived, so we adapted to a better system. In future events (2025 - onwards), the entire category for
-events will be archived opposed to past events where it was only 1 channel.
+Historically, event archiving was limited and inconsistent, often capturing only a single channel per event. In response, we have implemented a more comprehensive system. Beginning in 2025 and moving forward, entire event categories will be archived to ensure complete and accurate preservation of all related discussions and content.
+
+Our goal is to create a reliable and accessible historical record of community activities and shared experiences.
 
 ## Credits
-* SquidBowl - FNMC admin, maintainer and leader of archival program
+* [SquidBowl](https://squidbowl.carrd.co/) - FNMC Admin, maintainer and leader of archival program
 * HeroEyad - Senior Staff member, creator of the tool utilized to scrape and obtain HTML files
