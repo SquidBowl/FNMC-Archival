@@ -1,0 +1,1 @@
+This event isn't concluded yet, but channels that are inactive/already finished have been archived.
