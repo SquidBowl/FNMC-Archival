@@ -7,4 +7,4 @@ Our goal is to create a reliable and accessible historical record of community a
 
 ## Credits
 * [SquidBowl](https://squidbowl.carrd.co/) - FNMC Admin, maintainer and leader of archival program
-* HeroEyad - Senior Staff member, creator of the tool utilized to scrape and obtain HTML files
+* [HeroEyad](https://heroeyad.xyz/) - Senior Staff member, creator of the tool utilized to scrape and obtain HTML files
