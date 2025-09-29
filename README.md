@@ -30,5 +30,5 @@ Our focus is on preserving publicly accessible, community-driven event content â
 </details>
 
 ## Credits
-* [SquidBowl](https://squidbowl.carrd.co/) - FNMC Admin, maintainer and leader of archival program
-* [HeroEyad](https://heroeyad.xyz/) - Senior Staff member, creator of the tool utilized to scrape and obtain HTML files
+* [SquidBowl](https://squidbowl.carrd.co/) - FNMC Admin, maintainer, and leader of archival program
+* [SaharianHero ](https://x.com/saharianhero) - Senior Staff member, creator of the tool utilized to scrape and obtain HTML files
